@@ -280,7 +280,7 @@ Current test coverage includes:
 Example output:
 
 ```text
-======================= 5 passed =======================
+======================= 5 passed in 1.77s ========================
 ```
 
 ---
